@@ -1,0 +1,632 @@
+Club,Elo,Country
+1 Man City,2051,ENG
+2 Real Madrid,1972,ESP
+3 Bayern,1954,GER
+4 Inter,1950,ITA
+5 Liverpool,1947,ENG
+6 Arsenal,1931,ENG
+7 Paris SG,1879,FRA
+8 Atlético,1876,ESP
+9 Leverkusen,1867,GER
+10 Barcelona,1862,ESP
+11 Dortmund,1851,GER
+12 Juventus,1851,ITA
+13 Aston Villa,1844,ENG
+14 Milan,1843,ITA
+15 Tottenham,1840,ENG
+16 Real Sociedad,1815,ESP
+17 Napoli,1815,ITA
+18 RB Leipzig,1813,GER
+19 PSV,1811,NED
+20 Man United,1808,ENG
+21 Newcastle,1804,ENG
+22 Brighton,1802,ENG
+23 Porto,1800,POR
+24 Girona,1798,ESP
+25 Benfica,1796,POR
+26 Atalanta,1790,ITA
+27 West Ham,1787,ENG
+28 Bilbao,1777,ESP
+29 Sporting,1775,POR
+30 Roma,1774,ITA
+31 Lazio,1763,ITA
+32 Chelsea,1762,ENG
+33 Lens,1760,FRA
+34 Wolves,1749,ENG
+35 Brentford,1738,ENG
+36 Lille,1734,FRA
+37 Stuttgart,1733,GER
+38 Fiorentina,1733,ITA
+39 Feyenoord,1731,NED
+40 Bologna,1729,ITA
+41 Leicester,1729,ENG
+42 Betis,1728,ESP
+43 Everton,1726,ENG
+44 Marseille,1724,FRA
+45 Rennes,1718,FRA
+46 Nice,1716,FRA
+47 St Gillis,1715,BEL
+48 Crystal Palace,1712,ENG
+49 Valencia,1711,ESP
+50 Fulham,1711,ENG
+51 Torino,1708,ITA
+52 Frankfurt,1708,GER
+53 Bournemouth,1706,ENG
+54 Villarreal,1704,ESP
+55 Galatasaray,1703,TUR
+56 Slavia Praha,1699,CZE
+57 Monaco,1697,FRA
+58 Freiburg,1696,GER
+59 Fenerbahçe,1688,TUR
+60 Brugge,1685,BEL
+61 Salzburg,1682,AUT
+62 Brest,1677,FRA
+63 Getafe,1675,ESP
+64 Sevilla,1670,ESP
+65 Wolfsburg,1669,GER
+66 Gladbach,1669,GER
+67 Зенит,1666,RUS
+68 Forest,1664,ENG
+69 Ajax,1664,NED
+70 Sparta Praha,1663,CZE
+71 Braga,1660,POR
+72 Rangers,1657,SCO
+73 Hoffenheim,1657,GER
+74 Monza,1657,ITA
+75 Leeds,1657,ENG
+76 Werder,1653,GER
+77 Union Berlin,1652,GER
+78 Las Palmas,1651,ESP
+79 FC København,1648,DEN
+80 Southampton,1648,ENG
+81 Burnley,1646,ENG
+82 Celta,1646,ESP
+83 Lyon,1641,FRA
+84 Osasuna,1641,ESP
+85 Genoa,1639,ITA
+86 Reims,1638,FRA
+87 Luton,1637,ENG
+88 Anderlecht,1636,BEL
+89 Udinese,1636,ITA
+90 Rayo Vallecano,1635,ESP
+91 Strasbourg,1633,FRA
+92 Mallorca,1631,ESP
+93 Twente,1630,NED
+94 Celtic,1629,SCO
+95 Antwerp,1628,BEL
+96 Midtjylland,1625,DEN
+97 Alavés,1624,ESP
+98 Köln,1621,GER
+99 Montpellier,1620,FRA
+100 Mainz,1620,GER
+Bochum,1619,GER
+Шахтар,1617,UKR
+Sassuolo,1615,ITA
+Augsburg,1614,GER
+Young Boys,1613,SUI
+Gent,1607,BEL
+Toulouse,1606,FRA
+Heidenheim,1606,GER
+Genk,1605,BEL
+Cadiz,1604,ESP
+Bodø/Glimt,1604,NOR
+מכבי תל אביב,1603,ISR
+Lecce,1600,ITA
+St. Pauli,1599,GER
+ΠΑΟΚ,1596,GRE
+Empoli,1596,ITA
+Espanyol,1595,ESP
+Frosinone,1590,ITA
+מכבי חיפה,1589,ISR
+Hamburg,1588,GER
+Verona,1583,ITA
+Valladolid,1582,ESP
+Qarabağ,1580,AZE
+Eibar,1580,ESP
+Levante,1578,ESP
+Sheffield United,1574,ENG
+Nordsjælland,1573,DEN
+Coventry,1573,ENG
+Elche,1572,ESP
+AEK,1568,GRE
+Le Havre,1568,FRA
+Краснодар,1568,RUS
+Alkmaar,1567,NED
+Leganes,1566,ESP
+Oviedo,1566,ESP
+Brøndby,1566,DEN
+Granada,1563,ESP
+Salernitana,1562,ITA
+Clermont,1561,FRA
+Viktoria Plzeň,1559,CZE
+Sturm Graz,1558,AUT
+Παναθηναϊκός,1558,GRE
+ЦСКА,1558,RUS
+Cagliari,1554,ITA
+West Brom,1554,ENG
+Lorient,1554,FRA
+Auxerre,1553,FRA
+Cremonese,1552,ITA
+Guimarães,1550,POR
+Parma,1549,ITA
+Nantes,1545,FRA
+Düsseldorf,1542,GER
+Cercle Brugge,1541,BEL
+Ολυμπιακός,1539,GRE
+Ipswich,1538,ENG
+Almería,1537,ESP
+Локомотив Москва,1537,RUS
+Rakow,1533,POL
+Crvena Zvezda,1533,SRB
+Metz,1532,FRA
+Aarhus,1531,DEN
+Middlesbrough,1531,ENG
+Molde,1529,NOR
+באר שבע,1529,ISR
+Darmstadt,1528,GER
+Лудогорец,1523,BUL
+Hertha,1523,GER
+Спартак Москва,1522,RUS
+Norwich,1522,ENG
+Sunderland,1519,ENG
+Beşiktaş,1518,TUR
+Zaragoza,1517,ESP
+Gijón,1516,ESP
+Fürth,1514,GER
+LASK,1514,AUT
+Tenerife,1514,ESP
+Dinamo Zagreb,1513,CRO
+Динамо Москва,1512,RUS
+Paderborn,1510,GER
+Watford,1510,ENG
+Holstein,1508,GER
+Lech,1508,POL
+Başakşehir,1507,TUR
+Servette,1507,SUI
+Ferrol,1503,ESP
+Santander,1501,ESP
+Hull,1501,ENG
+Mirandes,1500,ESP
+Angers,1499,FRA
+Burgos,1499,ESP
+Venezia,1497,ITA
+Schalke,1497,GER
+Slovácko,1495,CZE
+Utrecht,1494,NED
+Trabzonspor,1493,TUR
+Legia,1493,POL
+St Truiden,1490,BEL
+Adana Demirspor,1488,TUR
+Sparta Rotterdam,1488,NED
+Mechelen,1488,BEL
+Swansea,1487,ENG
+Huesca,1487,ESP
+Nijmegen,1486,NED
+Como,1483,ITA
+Arouca,1481,POR
+Palermo,1481,ITA
+Karlsruhe,1480,GER
+Bristol City,1480,ENG
+Silkeborg,1479,DEN
+Leuven,1479,BEL
+Λάρνακας,1478,CYP
+Hajduk,1476,CRO
+Zürich,1475,SUI
+Динамо Київ,1475,UKR
+Hannover,1474,GER
+Eldense,1473,ESP
+Viborg,1470,DEN
+Famalicão,1469,POR
+Westerlo,1467,BEL
+Plymouth,1466,ENG
+Moreirense,1466,POR
+Preston,1466,ENG
+Rapid Wien,1466,AUT
+Cartagena,1465,ESP
+Charleroi,1465,BEL
+Cardiff,1464,ENG
+Sampdoria,1463,ITA
+Albacete,1463,ESP
+Ростов,1463,RUS
+Go Ahead Eagles,1462,NED
+St.Gallen,1462,SUI
+Piast Gliwice,1461,POL
+Millwall,1461,ENG
+Andorra CF,1461,ESP
+Pogoń,1461,POL
+Ferencváros,1460,HUN
+Крылья Советов,1460,RUS
+Steaua,1457,ROM
+Huddersfield,1456,ENG
+Standard,1456,BEL
+Tromsø,1454,NOR
+Sheriff,1453,MOL
+Antalyaspor,1453,TUR
+Jagiellonia,1452,POL
+Grenoble,1451,FRA
+Bordeaux,1449,FRA
+Brann,1449,NOR
+Elfsborg,1448,SWE
+Gil Vicente,1447,POR
+Терек,1447,RUS
+Cittadella,1444,ITA
+Austria Wien,1444,AUT
+Stoke,1444,ENG
+Blackburn,1443,ENG
+Malmö,1443,SWE
+Bari,1443,ITA
+Lugano,1441,SUI
+Troyes,1441,FRA
+Spezia,1441,ITA
+Odense,1440,DEN
+Aris Limassol,1439,CYP
+Guingamp,1438,FRA
+ΑΠΟΕΛ,1438,CYP
+Ομόνοια,1438,CYP
+Suedtirol,1437,ITA
+Brescia,1437,ITA
+ЦСКА София,1437,BUL
+Saint-Étienne,1436,FRA
+Sigma Olomouc,1436,CZE
+Pisa,1435,ITA
+Paris FC,1434,FRA
+Magdeburg,1432,GER
+Śląsk,1432,POL
+Randers,1431,DEN
+Caen,1431,FRA
+Zwolle,1431,NED
+Nürnberg,1430,GER
+Kasımpaşa,1430,TUR
+Modena,1430,ITA
+Basel,1429,SUI
+Farense,1429,POR
+Birmingham,1429,ENG
+Rijeka,1429,CRO
+Heerenveen,1427,NED
+Fatih Karagümrük,1427,TUR
+Villarreal B,1427,ESP
+Luzern,1427,SUI
+Boavista,1425,POR
+Banik Ostrava,1425,CZE
+Ajaccio,1424,FRA
+Alcorcon,1423,ESP
+Sivasspor,1422,TUR
+Sochaux,1422,FRA
+Konyaspor,1421,TUR
+Άρης,1420,GRE
+Viking,1419,NOR
+Hearts,1416,SCO
+Рубин,1416,RUS
+Rio Ave,1415,POR
+Оренбург,1414,RUS
+Ankaragücü,1413,TUR
+Ascoli,1412,ITA
+CFR Cluj,1409,ROM
+Hartberg,1409,AUT
+QPR,1409,ENG
+Catanzaro,1409,ITA
+Дніпро,1409,UKR
+Wolfsberg,1408,AUT
+Pau,1407,FRA
+Bastia,1407,FRA
+Nizhny Novgorod,1407,RUS
+Reggiana,1407,ITA
+Grasshoppers,1406,SUI
+Häcken,1406,SWE
+Estoril,1406,POR
+Wehen,1405,GER
+Cosenza,1404,ITA
+Elversberg,1403,GER
+Rodez,1403,FRA
+Partizan,1403,SRB
+Rosenborg,1402,NOR
+Górnik,1402,POL
+Casa Pia,1401,POR
+Klagenfurt,1400,AUT
+Laval,1398,FRA
+Alanyaspor,1397,TUR
+Lautern,1397,GER
+Урал,1396,RUS
+Almere,1394,NED
+Lyngby,1393,DEN
+Заря,1393,UKR
+Факел Воронеж,1393,RUS
+Mladá Boleslav,1393,CZE
+Amiens,1393,FRA
+Djurgården,1393,SWE
+Kayseri,1392,TUR
+Hammarby,1392,SWE
+Estrela Amadora,1390,POR
+Chaves,1389,POR
+Sittard,1387,NED
+Rotherham,1386,ENG
+Celje,1384,SVN
+Ternana,1381,ITA
+Со́чи,1381,RUS
+Rostock,1380,GER
+Excelsior,1380,NED
+Portimonense,1379,POR
+Slovan Liberec,1379,CZE
+Sheffield Weds,1378,ENG
+Vitesse,1378,NED
+Левски,1378,BUL
+Braunschweig,1378,GER
+Bohemians Praha,1377,CZE
+Slovan Bratislava,1377,SLK
+Lillestrøm,1377,NOR
+Sarpsborg,1377,NOR
+Osijek,1375,CRO
+Radomiak,1375,POL
+Amorebieta,1375,ESP
+US Quevilly,1374,FRA
+הפועל חיפה,1374,ISR
+Vizela,1373,POR
+Rizespor,1372,TUR
+Kortrijk,1372,BEL
+Waalwijk,1372,NED
+Rapid Bucuresti,1370,ROM
+Trnava,1369,SLK
+Cracovia,1368,POL
+Heracles,1367,NED
+Molenbeek,1366,BEL
+Viitorul,1365,ROM
+Feralpisalo,1365,ITA
+Vejle,1365,DEN
+Strømsgodset,1365,NOR
+Eupen,1363,BEL
+Lok Zagreb,1363,CRO
+Zilina,1362,SLK
+CSU Craiova,1359,ROM
+Odd Grenland,1358,NOR
+Annecy,1356,FRA
+Paksi,1356,HUN
+Samsunspor,1353,TUR
+Черно море,1353,BUL
+Warta,1353,POL
+Stal Mielec,1353,POL
+Pendikspor,1351,TUR
+Sepsi,1349,ROM
+Winterthur,1349,SUI
+Aberdeen,1348,SCO
+Zagłębie,1348,POL
+Jablonec,1347,CZE
+Neftçi,1347,AZE
+Videoton,1347,HUN
+נתניה,1345,ISR
+Vålerenga,1345,NOR
+Sabah,1344,AZE
+Puskas Akademia,1344,HUN
+AIK,1343,SWE
+Hradec Králové,1343,CZE
+Балтика,1342,RUS
+Haugesund,1339,NOR
+Korona,1337,POL
+Астана,1336,KAZ
+Concarneau,1335,FRA
+Lecco,1334,ITA
+Hatayspor,1333,TUR
+Teplice,1331,CZE
+Dunajska,1331,SLK
+"בית""ר",1331,ISR
+Hibernian,1331,SCO
+IK Sirius,1330,SWE
+Gaziantep FK,1330,TUR
+Pardubice,1329,CZE
+Olimpija Ljubljana,1329,SVN
+Lausanne,1329,SUI
+St Mirren,1328,SCO
+CSKA 1948 Sofia,1328,BUL
+Vaduz,1328,LIE
+Osnabrück,1327,GER
+בני סכנין,1325,ISR
+BW Linz,1325,AUT
+Polissya Zhytomyr,1324,UKR
+Ворскла,1323,UKR
+Yverdon Sport,1322,SUI
+Кривбас,1322,UKR
+İstanbulspor,1321,TUR
+Backa Topola,1321,SRB
+Hvidovre,1319,DEN
+Wattens,1319,AUT
+Mjällby,1318,SWE
+Kalmar,1318,SWE
+Valenciennes,1317,FRA
+Varnamo,1317,SWE
+הפועל תל-אביב,1316,ISR
+Volendam,1316,NED
+Debrecen,1314,HUN
+Göteborg,1313,SWE
+Kilmarnock,1312,SCO
+Рух Львів,1311,UKR
+Dunkerque,1310,FRA
+HNK Gorica,1309,CRO
+Maribor,1308,SVN
+Norrköping,1306,SWE
+Qəbələ,1305,AZE
+Αστέρας,1305,GRE
+Widzew,1304,POL
+Altach,1304,AUT
+Kuopio,1302,FIN
+Puszcza Niepolomice,1299,POL
+Tescoma Zlin,1299,CZE
+אשדוד,1298,ISR
+Motherwell,1298,SCO
+Maccabi Bnei Raina,1296,ISR
+Локомотив Пловдив,1295,BUL
+Hermannstadt,1295,ROM
+Sandefjord,1294,NOR
+הפועל ירושלים,1294,ISR
+Ατρόμητος,1291,GRE
+Ham-Kam,1290,NOR
+HJK Helsinki,1289,FIN
+Slaven Belupo,1287,CRO
+Zrinjski Mostar,1284,BHZ
+FK Riga,1284,LAT
+Kecskemét,1282,HUN
+ΟΦΗ,1282,GRE
+Stabæk,1280,NOR
+Колос,1280,UKR
+Craiova 1948,1278,ROM
+Lausanne Ouchy,1278,SUI
+Ruch,1275,POL
+Istra 1961,1275,CRO
+Varazdin,1275,CRO
+Чорноморець,1274,UKR
+Λαμία,1273,GRE
+Ceské Budejovice,1270,CZE
+Олександрія,1269,UKR
+Universitatea Cluj,1269,ROM
+Dundee,1264,SCO
+Lustenau,1264,AUT
+Petrolul Ploiesti,1263,ROM
+Арда,1262,BUL
+Voluntari,1260,ROM
+Karvina,1258,CZE
+St Johnstone,1256,SCO
+Փյունիկ,1255,ARM
+Оболонь,1255,UKR
+UTA Arad,1254,ROM
+הפועל פתח תקווה,1251,ISR
+Kisvarda,1250,HUN
+Cukaricki,1249,SRB
+Тобыл,1249,KAZ
+БАТЭ,1249,BLR
+Koper,1246,SVN
+Ақтөбе,1245,KAZ
+Mezokovesd-Zsory,1245,HUN
+Željezničar,1245,BHZ
+Πανσερραϊκός,1244,GRE
+Újpest,1244,HUN
+Ботев Пловдив,1242,BUL
+MTK,1242,HUN
+LNZ,1241,UKR
+Дынама Мiнск,1241,BLR
+Βόλος,1240,GRE
+Ордабасы,1240,KAZ
+Mura,1240,SVN
+הפועל חדרה,1240,ISR
+FK Sarajevo,1239,BHZ
+Novi Sad,1239,SRB
+Diósgyőr,1235,HUN
+Halmstad,1235,SWE
+Metalist 1925,1234,UKR
+LKS,1234,POL
+Oțelul Galați,1234,ROM
+מכבי פתח תקווה,1234,ISR
+Příbram,1233,CZE
+Domžale,1229,SVN
+RFS,1225,LAT
+Akureyri,1224,ISL
+Shkendija,1223,MAC
+Petrocub,1219,MOL
+Brommapojkarna,1217,SWE
+Zalaegerszeg,1216,HUN
+Honka Espoo,1215,FIN
+Víkingur,1215,ISL
+Γιάννινα,1214,GRE
+Ross County,1214,SCO
+Верес,1213,UKR
+Bravo,1212,SVN
+Iasi,1211,ROM
+Zimbru,1211,MOL
+Zalgiris Vilnius,1210,LIT
+Haka,1208,FIN
+Drita,1207,KOS
+Degerfors,1205,SWE
+Славия София,1203,BUL
+Breiðablik,1202,ISL
+Botosani,1201,ROM
+Ալաշկերտ,1201,ARM
+Ballkani,1200,KOS
+Aalesund,1200,NOR
+Milsami,1198,MOL
+Partizani Tirana,1198,ALB
+დილა გორი,1195,GEO
+Derry City,1194,IRL
+Παναιτωλικός,1194,GRE
+Auda,1190,LAT
+Livingston,1190,SCO
+Borac Banja Luka,1190,BHZ
+ბათუმის დინამო,1178,GEO
+Mynai,1178,UKR
+Radomlje,1177,SVN
+Dundalk,1176,IRL
+Egnatia,1175,ALB
+Shamrock,1173,IRL
+Klaksvík,1173,FAR
+ტორპედო ქუთაისი,1172,GEO
+Vllaznia,1170,ALB
+St. Patrick's,1167,IRL
+Kifisias,1165,GRE
+Levski Krumovgrad,1161,BUL
+Արարատ,1161,ARM
+Tirana,1156,ALB
+Novi Pazar,1155,SRB
+Varbergs,1154,SWE
+Բանանց,1152,ARM
+Valmieras,1152,LAT
+Берое Стара Загора,1151,BUL
+Vozdovac Beograd,1148,SRB
+Hamrun,1145,MLT
+Dinamo București,1142,ROM
+Нёман Гродна,1140,BLR
+Panevezys,1138,LIT
+დინამო თბილისი,1135,GEO
+Flora Tallinn,1131,EST
+Хебър,1130,BUL
+Kragujevac,1120,SRB
+Локомотив София,1120,BUL
+Linfield,1119,NIR
+Rudes Zagreb,1118,CRO
+Struga,1118,MAC
+Hegelmann,1111,LIT
+Aluminij,1109,SVN
+Mladost Lucani,1107,SRB
+Благоевград,1107,BUL
+Тарпеда Жодзіна,1105,BLR
+Zlatibor,1105,SRB
+Shkupi,1099,MAC
+Kauno Zalgiris,1099,LIT
+Dukagjini,1097,KOS
+Niedercorn,1093,LUX
+Gzira United,1091,MLT
+Balzan,1086,MLT
+Crusaders,1086,NIR
+Dudelange,1086,LUX
+Niš,1085,SRB
+Swift Hesperange,1080,LUX
+The New Saints,1079,WAL
+Makedonija,1079,MAC
+Birkirkara,1078,MLT
+Етър,1078,BUL
+B36 Tórshavn,1077,FAR
+Kruševac,1075,SRB
+KF Gjilani,1075,KOS
+Differdang,1074,LUX
+Ботев Враца,1072,BUL
+Rogaska,1071,SVN
+Glentoran,1067,NIR
+Ivanjica,1066,SRB
+Radnik Surdulica,1061,SRB
+Larne,1056,NIR
+HB Tórshavn,1052,FAR
+Gøta,1037,FAR
+Zeleznicar Pancevo,1035,SRB
+Trans Narva,1018,EST
+Arsenal Tivat,1017,MNT
+Paide Linnameeskond,1014,EST
+FC Infonet,1001,EST
+Haverfordwest,990,WAL
+Connahs Quay,982,WAL
+Podgorica,981,MNT
+Sutjeska,968,MNT
+Penybont,962,WAL
+Lincoln,950,GIB
+College Europa,907,GIB
+Santa Coloma,899,AND
+Escaldes,881,AND
+FCB Magpies,860,GIB
+Atletic Club Escaldes,846,AND
+Cosmos,697,SMR
+Tre Penne,686,SMR
+La Fiorita,666,SMR
